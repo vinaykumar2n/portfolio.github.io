@@ -430,7 +430,7 @@ section .title::after {
   transform: scale(1.05);
 }
 .project .carousel .card .text {
-  font-size: 25px;
+  font-size: 22px;
   font-weight: 500;
   margin: 10px 0 7px 0;
 }
